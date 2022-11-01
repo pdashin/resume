@@ -1,0 +1,42 @@
+.flex-container {
+    /*генерирует flex-контейнер уровня блока*/
+    display: -webkit-flex; 
+    display: flex; 
+    }
+
+body {
+    font-family: Helvetica;
+    background-color: rgb(62, 69, 69);
+}
+
+fieldset {
+    background-color: #dddddd;
+    border-radius: 10px;
+}
+
+legend {
+    background-color: #dddddd
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 250px; 
+    height: 200px; 
+    float: right; 
+}
+
+.photo {
+    width: 250px; 
+    height: 194px; 
+    float: right;
+    margin-top: 6px;
+}
+
+.cont {
+    width: auto; 
+    height: 200px; 
+    
+}
